@@ -16,7 +16,7 @@ const Live = () => {
       <Header />
       <List />
       <Footer />
-      {process.env.NEXT_PUBLIC_LIVE_DEMO === 'true' ? <DemoModal /> : null}
+      {process.env.NEXT_PUBLIC_LIVE_DEMO === 'false' ? <DemoModal /> : null}
     </div>
   );
 };
