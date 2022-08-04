@@ -1,7 +1,7 @@
 {
-  "name": "Virtual Event Starter Kit",
-  "short_name": "Virtual Event Starter Kit",
-  "description": "Virtual Event Starter Kit -> https://demo.vercel.events",
+  "name": "JUNGLELABᵀᴹ Live Events",
+  "short_name": "JUNGLELABᵀᴹ Live Events",
+  "description": "JUNGLELABᵀᴹ Live Events -> https://junglelab.live",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
