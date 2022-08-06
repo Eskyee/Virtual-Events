@@ -14,17 +14,17 @@
  * limitations under the License.
  */
 
-export const SITE_URL = 'https://virtual-events-sepia.vercel.app/api/github-oauth';
+export const SITE_URL = 'http://virtual-events-9j50r4s0q-jungle-lab.vercel.app/api/github-oauth';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'junglelab_io';
 export const BRAND_NAME = 'JUNGLELABᵀᴹ';
 export const SITE_NAME_MULTILINE = ['JUNGLELABᵀᴹ', 'Live Events'];
 export const SITE_NAME = 'JUNGLELABᵀᴹ Live Events';
 export const META_DESCRIPTION =
-  'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the artwork they produce on the Liquid Blockchain. PLAN ₿ FORUM 28-29 OCTOBER 2022, LUGANO.';
+  'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the artwork they produce on the Liquid Blockchain.';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the community, free for everyone.';
-export const DATE = '28-29 OCTOBER 2022';
+export const DATE = 'PLAN ₿ FORUM 28-29 OCTOBER 2022, LUGANO 28-29 OCTOBER 2022';
 export const SHORT_DATE = 'OCT 28-29 - 9:00am PST';
 export const FULL_DATE = 'OCT 28-29 9am Pacific Time (GMT-7)';
 export const TWEET_TEXT = META_DESCRIPTION;
@@ -54,7 +54,7 @@ export const NAVIGATION = [
   },
   {
     name: 'Raretoshi Stage',
-    route: '/stage/m'
+    route: '/stage/e'
   },
   {
     name: 'Schedule',
