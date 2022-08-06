@@ -45,7 +45,7 @@ export const NAVIGATION = [
     route: '/stage/a'
   },
   {
-    name: 'JungleLabᵀᴹ Stage',
+    name: 'JungleLabᵀᴹ',
     route: '/stage/c'
   },
   {
@@ -53,7 +53,7 @@ export const NAVIGATION = [
     route: '/stage/m'
   },
   {
-    name: 'Raretoshi Stage',
+    name: 'Raretoshi',
     route: '/stage/e'
   },
   {
