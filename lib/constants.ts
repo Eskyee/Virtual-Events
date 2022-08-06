@@ -24,7 +24,7 @@ export const META_DESCRIPTION =
   'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the artwork they produce on the Liquid Blockchain.';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the community, free for everyone.';
-export const DATE = 'PLAN ₿ FORUM 28-29 OCTOBER 2022, LUGANO 28-29 OCTOBER 2022';
+export const DATE = 'PLAN ₿ FORUM 28-29 OCTOBER 2022, LUGANO 28-29';
 export const SHORT_DATE = 'OCT 28-29 - 9:00am PST';
 export const FULL_DATE = 'OCT 28-29 9am Pacific Time (GMT-7)';
 export const TWEET_TEXT = META_DESCRIPTION;
