@@ -21,7 +21,7 @@ export const BRAND_NAME = 'JUNGLELABᵀᴹ';
 export const SITE_NAME_MULTILINE = ['JUNGLELABᵀᴹ', 'Live Events'];
 export const SITE_NAME = 'JUNGLELABᵀᴹ Live Events';
 export const META_DESCRIPTION =
-  'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the artwork they produce on the Liquid Blockchain.';
+  'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the digital assets they produce on the Liquid Blockchain.';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the community, free for everyone.';
 export const DATE = 'PLAN ₿ FORUM 28-29 OCTOBER 2022, LUGANO 28-29';
