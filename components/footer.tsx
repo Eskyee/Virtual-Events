@@ -27,7 +27,7 @@ export function HostedByVercel() {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div className={styles['secondary-text']}>Created by </div>
+      <div className={styles['secondary-text']}>Created with </div>
       <VercelLogo color="white" />
     </a>
   );
@@ -44,44 +44,6 @@ export default function Footer() {
         <div className={styles['footer-copyright']}>
           Copyright © {`${new Date().getFullYear()} `} {COPYRIGHT_HOLDER || `${SITE_NAME}.`} All
           rights reserved.
-        </div>
-        <div className={styles['footer-center-group']}>
-          <p className={styles['footer-paragraph']}>
-            <a
-              href={REPO}
-              className={styles['footer-link']}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Source Code
-            </a>
-          </p>
-          <div className={styles['footer-separator']} />
-          <p className={styles['footer-paragraph']}>
-            <a
-              href={CODE_OF_CONDUCT}
-              className={styles['footer-link']}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Code of Conduct
-            </a>
-          </p>
-          {LEGAL_URL && (
-            <>
-              <div className={styles['footer-separator']} />
-              <p className={styles['footer-paragraph']}>
-                <a
-                  href={LEGAL_URL}
-                  className={styles['footer-link']}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Legal
-                </a>
-              </p>
-            </>
-          )}
         </div>
       </div>
     </footer>

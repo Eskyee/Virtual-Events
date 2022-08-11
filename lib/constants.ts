@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-export const SITE_URL = 'http://virtual-events-9j50r4s0q-jungle-lab.vercel.app/api/github-oauth';
+export const SITE_URL = 'https://junglelab.live';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'junglelab_io';
 export const BRAND_NAME = 'JUNGLELABᵀᴹ';

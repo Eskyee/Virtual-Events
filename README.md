@@ -2,7 +2,7 @@
 # JungleLab Virtual Live Events 
 
 Thanks to the open source software culture.
-This virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
+
 
 - Multiple stages - with the ability to add multiple sessions on each stage
 - Each stage can be configured as -
@@ -36,7 +36,7 @@ This platform is built upon three principles:
 
 ## What’s New?
 
-The virtual events starter kit now has added support for organising truly LIVE virtual events. You can quickly setup a live stage and invite speakers to interact with viewers. Live audio-video opens up a ton of possibilities with respect to what you can do with this template. You can use it for:
+The virtual events now has added support for organising truly LIVE virtual events. You can quickly setup a live stage and invite speakers to interact with viewers. Live audio-video opens up a ton of possibilities with respect to what you can do with this template. You can use it for:
 
 1. Live Webinars
 2. Community Calls
@@ -47,7 +47,7 @@ The virtual events starter kit now has added support for organising truly LIVE v
 ## **Clone and Deploy**
 
 
-You’ll be asked to install the **100ms with DatoCMS** integration. It lets you sign up or log in to 100ms and DatoCMS, and connects your DatoCMS and 100ms account to vercel. In a single integration, you will be able to deploy a fully working template that contains all the elements of the virtual events starter kit.
+You’ll be asked to install the **100ms with DatoCMS** integration. It lets you sign up or log in to 100ms and DatoCMS, and connects your DatoCMS and 100ms account to vercel. In a single integration, you will be able to deploy a fully working template that contains all the elements of the virtual events.
 
 ## Running Locally
 
@@ -116,7 +116,7 @@ Environment variables determine which CMS to use. See [lib/cms-api.ts](https://
 - [Prismic](https://github.com/vercel/virtual-event-starter-kit/blob/main/lib/cms-providers/prismic/index.ts) ([Instructions](https://github.com/vercel/virtual-event-starter-kit/blob/main/lib/cms-providers/prismic/README.md))
 - [Sanity](https://create.sanity.io/?template=sanity-io%2Fsanity-template-nextjs-event-starter)
 - [Storyblok](https://github.com/vercel/virtual-event-starter-kit/blob/main/lib/cms-providers/storyblok.ts)
-  - Click the following link to create the space for this starter kit in Storyblok: [Create Event Space](https://app.storyblok.com/#!/build/101757)
+  - Click the following link to create the space for this in Storyblok: [Create Event Space](https://app.storyblok.com/#!/build/101757)
 
 ### **Constants**
 

@@ -39,7 +39,7 @@ export default function TicketActions({ username }: Props) {
   const downloadUrl = `/api/ticket-images/${username}`;
 
   useEffect(() => {
-    setImgReady(false);
+    setImgReady(true);
 
     const img = new Image();
 
