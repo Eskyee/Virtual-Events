@@ -37,7 +37,7 @@ export const COPYRIGHT_HOLDER = process.env.NEXT_PUBLIC_COPYRIGHT_HOLDER;
 
 export const CODE_OF_CONDUCT =
   'https://sedate-ticket-9a3.notion.site/Code-of-Conduct-Example-bcc17e6ec2ff4314bfd58d012640fe9d';
-export const REPO = 'https://github.com/Eskyee/Virtual-Events';
+export const REPO = 'https://junglelab.net';
 export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
