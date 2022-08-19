@@ -46,7 +46,7 @@ export default function TicketActions({ username }: Props) {
     img.src = downloadUrl;
     img.onload = () => {
       setImgReady(true);
-      setLoading(false);
+      setLoading(true);
       if (downloadLink.current) {
         downloadLink.current.click();
         downloadLink.current = undefined;
@@ -92,6 +92,7 @@ export default function TicketActions({ username }: Props) {
           // Wait for the image download to finish
           setLoading(true);
         }}
+        
         download="ticket.png"
       >
         {loading ? (

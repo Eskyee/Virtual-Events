@@ -18,13 +18,13 @@ export const SITE_URL = 'https://junglelab.live';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'junglelab_io';
 export const BRAND_NAME = 'JUNGLELABᵀᴹ';
-export const SITE_NAME_MULTILINE = ['JUNGLELABᵀᴹ', 'Virtual Live Events'];
+export const SITE_NAME_MULTILINE = ['JUNGLELABᵀᴹ', 'Digital Assets'];
 export const SITE_NAME = 'JUNGLELABᵀᴹ Virtual Live Events';
 export const META_DESCRIPTION =
   'JungleLab is an artist-driven Digital Assets Marketplace. Making it easy for digital creators to authenticate, showcase and sell the digital assets they produce on the Liquid Blockchain.';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the community, free for everyone.';
-export const DATE = 'Virtual Live Events , Global';
+export const DATE = 'Virtual Live Events';
 export const SHORT_DATE = 'OCT 28-29 - 9:00am PST';
 export const FULL_DATE = 'OCT 28-29 9am Pacific Time (GMT-7)';
 export const TWEET_TEXT = META_DESCRIPTION;
